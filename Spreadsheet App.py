@@ -64,6 +64,8 @@ def create_sp(rows, columns, width, lst):
     file_drop.add_command(label="New CSV", command=get_dims)
     file_drop.add_command(label="Load a CSV", command = load_csv)
     file_drop.add_command(label="Save as a CSV", command=savefile)
+    file_drop.add_separator()
+    file_drop.add_command(label="Quit", command=lambda: quit())
     menubar.add_cascade(label="File", menu=file_drop)
     root.config(menu=menubar)
     root.mainloop()
