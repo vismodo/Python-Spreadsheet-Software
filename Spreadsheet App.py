@@ -32,7 +32,7 @@ def create_sp(rows, columns, width, lst):
                 pass
             else:
                 try:
-                    exec('global '+cmd+'; '+cmd+ '.insert(tk.END, lst[r][c])')
+                    exec('global '+cmd+'; '+cmd+ '.insert(tk.END, lst[c][r])')
                 except:
                     pass
             exec(cmd+'.place(x='+str((int(r)*12*int(width))+40)+', y ='+str((int(c)*26)+40)+')')
