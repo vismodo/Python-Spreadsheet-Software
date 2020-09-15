@@ -13,7 +13,7 @@ If you want to make your own spreadsheet app like excel, this is a great templat
 <b>Alternatively, you can also try executing `python3` or `python` followed by your file's location like this, in Terminal or Command Prompt</b>
 
 ```
-python3 /Users/Me/Documents/Python3-Slideshow-Software-master/Slideshow Software.py
+python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Software.py
 ```
 
 4. Click on <b>'Create your slideshow'</b> if you already have your pictures in one folder.
