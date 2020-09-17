@@ -26,15 +26,13 @@ If you do not, click on <b>'Export PPTX as images'</b> to get the instructions a
 
 5. Select the folder which contains the images for the slideshow.
 
-![open_dir](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/open_dir.png)
-
 6. Your presentation has started!
 
 <img src="https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/presentation.png" alt="drawing" width="600"/>
 
-7. You can now change the slides from the 'Controls' window.
+7. You can now do all you actions from the dropdown menu
 
-![controls](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/controls.png)
+![controls](https://github.com/VismayaAtreya/Python3-Spreadsheet-Software/blob/master/User%20Guide%20Images/controls.png)
 
 8. In your call, click on 'Share Screen' and select your presentation! You also have a window for presenter notes!
 
