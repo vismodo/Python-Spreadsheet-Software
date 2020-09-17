@@ -16,13 +16,11 @@ If you want to make your own spreadsheet app like excel, this is a great templat
 python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Software.py
 ```
 
-4. Click on <b>'Create your slideshow'</b> if you already have your pictures in one folder.
+4. From the window.
 
-<img src="https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/welcome_tk.png" alt="drawing" width="600"/>
+<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/welcome.png" alt="drawing" width="600"/>
 
-If you do not, click on <b>'Export PPTX as images'</b> to get the instructions as an alert, like this.
-
-![alert](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/alert.png)
+The cell width cannot be changed
 
 5. Select the folder which contains the images for the slideshow.
 
@@ -30,14 +28,8 @@ If you do not, click on <b>'Export PPTX as images'</b> to get the instructions a
 
 <img src="https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/presentation.png" alt="drawing" width="600"/>
 
-7. You can now do all you actions from the dropdown menu
+7. You can now do all you actions from the dropdown menu!
 
-![controls](https://github.com/VismayaAtreya/Python3-Spreadsheet-Software/blob/master/User%20Guide%20Images/controls.png)
+## Troubleshooting
 
-8. In your call, click on 'Share Screen' and select your presentation! You also have a window for presenter notes!
-
-<img src="https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/presenter_notes.png" alt="drawing" width="600"/>
-
-9. If you wish to stop, from the 'Slideshow' dropdown menu in the ribbbon, select 'Quit'.
-
-![slideshow_dropdown.png](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/slideshow_dropdown.png)
+Please create an [issue](https://github.com/VismayaAtreya/Python-Spreadsheet-Software/issues) if you found a bug or want to suggest a feature. You can also do so from my [website](https://github.com/VismayaAtreya/Python-Spreadsheet-Software/issues)
