@@ -22,11 +22,11 @@ python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Soft
 
 This cannot be changed, so you use this template and make that feature!
 
-6. Your presentation has started!
+6. Your spreadheet has opened!
 
-<img src="https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/User%20Guide%20Images/presentation.png" alt="drawing" width="600"/>
+<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/image.png" alt="drawing" width="600"/>
 
-7. You can now do all you actions from the dropdown menu!
+7. You can now do all your actions from the dropdown menu!
 
 ## Troubleshooting
 
