@@ -20,7 +20,7 @@ python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Soft
 
 <img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/welcome.png" alt="drawing" width="300"/>
 
-This cannot be changed, so you use this template and make that feature!
+This cannot be changed, so you can use this template and make that feature!
 
 6. Your spreadheet has opened!
 
