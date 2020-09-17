@@ -18,13 +18,13 @@ python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Soft
 
 4. From the window, select your dimensions.
 
-<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/welcome.png" alt="drawing" width="600"/>
+<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/welcome.png" alt="drawing" width="300"/>
 
 This cannot be changed, so you use this template and make that feature!
 
 6. Your spreadheet has opened!
 
-<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/image.png" alt="drawing" width="600"/>
+<img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/image.png" alt="drawing" width="300"/>
 
 7. You can now do all your actions from the dropdown menu!
 
