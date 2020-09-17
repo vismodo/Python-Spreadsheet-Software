@@ -16,13 +16,11 @@ If you want to make your own spreadsheet app like excel, this is a great templat
 python3 /Users/Me/Documents/Python3-Spreadsheet-Software-master/Spreadsheet Software.py
 ```
 
-4. From the window.
+4. From the window, select your dimensions.
 
 <img src="https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/User%20Guide%20Images/welcome.png" alt="drawing" width="600"/>
 
-The cell width cannot be changed
-
-5. Select the folder which contains the images for the slideshow.
+This cannot be changed, so you use this template and make that feature!
 
 6. Your presentation has started!
 
