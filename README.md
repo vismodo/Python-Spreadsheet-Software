@@ -6,7 +6,7 @@ If you want to make your own spreadsheet app like excel, this is a great templat
 
 1. Click [here](https://github.com/VismayaAtreya/Python3-Spreadsheet-Software/archive/master.zip) to clone the repository. Extract all the contents into one folder.
 
-2. Open ['Slideshow Software.py'](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/Slideshow%20Software.py) and not [Without Pillow.py](https://github.com/VismayaAtreya/Python3-Slideshow-Software/blob/master/Without%20Pillow.py) in [IDLE](https://docs.python.org/3/library/idle.html)
+2. Open ['Spreadsheet App.py'](https://github.com/VismayaAtreya/Python-Spreadsheet-Software/blob/master/Spreadsheet%20App.py) in [IDLE](https://docs.python.org/3/library/idle.html)
 
 3. Click on <b>Run -> Run Module</b> and wait for a tkinter window to pop up.
 
